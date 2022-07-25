@@ -1,6 +1,8 @@
 import React from 'react';
 
 import Header from './Components/Layout/Header';
+import MealsSummary from './Components/Meals/MealsSummary';
+
 
 
 function App() {
@@ -9,6 +11,7 @@ function App() {
       <h2>Let's get started!</h2>
       
       <Header/>
+      <MealsSummary/>
     </div>
     
   );
