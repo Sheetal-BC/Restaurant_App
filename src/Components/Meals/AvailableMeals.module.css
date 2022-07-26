@@ -11,18 +11,6 @@
   padding: 0;
 }
 
-.name{
-  font-weight: bold;
-}
-
-.discription {
- font-style: italic;
-}
-.price{
-  color: brown;
-  font-weight: bold;
-}
-
 @keyframes meals-appear {
   from {
     opacity: 0;

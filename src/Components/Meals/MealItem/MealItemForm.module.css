@@ -1,0 +1,21 @@
+.amount{
+    font-weight: bold;
+}
+.amount input{
+    width: 50px;
+    margin-left: 10px;
+    color: lightgray
+
+}
+
+
+.btn{
+   width: 100px;
+   height: 30px;
+   border-radius: 20px;
+   margin-top: 10px;
+   background-color: brown;
+   color: white;
+   border: none;
+   font-weight: bold;
+}
